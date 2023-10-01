@@ -44,7 +44,7 @@ time.sleep(2)
 text_box_email.clear()
 text_box_password.clear()
 text_box_email.send_keys("aryazid10@gmail.com")
-text_box_password.send_keys("m3WG9S3f'/';.3@3Bi")
+text_box_password.send_keys("private")
 submit_button.click()
 time.sleep(4)
 
